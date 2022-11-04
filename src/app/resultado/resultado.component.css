@@ -1,0 +1,19 @@
+* {
+  background-color: lightblue;
+  text-align: center;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.circulo
+{
+    width: 50px;
+    height: 43px;
+    font-size: 30px;
+    text-align: center;
+    color:white;
+    background-color: rgb(52, 20, 231);
+    border-radius: 50px;
+    margin:10px;
+    padding-top: 7px;
+  }
